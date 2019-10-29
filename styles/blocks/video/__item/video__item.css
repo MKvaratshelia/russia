@@ -1,0 +1,13 @@
+
+.video__item {
+    position: relative;
+    /*max-width: 583px;*/
+    /*max-height: 323px;*/
+    margin: 0 auto;
+}
+@media screen and (max-width: 767px) {
+    .video__item {
+        width: 100%;
+        margin:0;
+    }
+}

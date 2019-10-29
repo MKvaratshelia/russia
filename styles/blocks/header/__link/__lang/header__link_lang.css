@@ -1,0 +1,5 @@
+@import url("../__lang/_active/header__link_lang_active.css");
+.header__link_lang{
+    color:#fff;
+    text-decoration: none;
+}

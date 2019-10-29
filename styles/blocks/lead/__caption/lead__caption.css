@@ -1,0 +1,14 @@
+.lead__caption {
+    font-family: Inter;
+    font-size: 10px;
+    font-weight: normal;
+    line-height: 12px;
+    text-transform: uppercase;
+    margin: 0;
+}
+@media screen and (max-width: 768px) {
+    .lead__caption {
+        width: 90%;
+        margin: 0 auto;
+    }
+}

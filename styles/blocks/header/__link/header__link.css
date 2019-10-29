@@ -1,0 +1,16 @@
+@import url("../__link/__lang/header__link_lang.css");
+/*@import url("../__link/__lang/_active/header__link_lang_active.css");*/
+.header__link {
+    color:#fff;
+    font-family: Inter;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 23px;
+    margin-left: 18px;
+}
+@media screen and (max-width: 425px) {
+    .header__link {
+        font-size: 16px;
+        line-height: 17px;
+    }
+}

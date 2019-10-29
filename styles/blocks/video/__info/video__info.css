@@ -1,0 +1,12 @@
+.video__info {
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    position: absolute;
+    left: 5%;
+    right: 0;
+    top: 35%;
+    text-decoration: none;
+    color: #fff;
+}

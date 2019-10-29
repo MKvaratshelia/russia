@@ -1,0 +1,12 @@
+.place__columns {
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+    grid-column-gap: 30px;
+}
+@media screen and (max-width: 767px) {
+    .place__columns {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    
+}
+

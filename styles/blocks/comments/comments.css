@@ -1,0 +1,12 @@
+@import url("../comments/__comment-author/comments__comment-author.css");
+@import url("../comments/__comment-image/comments__comment-image.css");
+@import url("../comments/__comment-quote/comments__comment-quote.css");
+@import url("../comments/__container/comments__container.css");
+@import url("../comments/__subtitle/comments__subtitle.css");
+@import url("../comments/__title/comments__title.css");
+@import url("../comments/__comment/comments__comment.css");
+
+.comments {
+    width: 92.5%;
+    margin: 0 auto;
+}

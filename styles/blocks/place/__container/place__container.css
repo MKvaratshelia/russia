@@ -1,0 +1,12 @@
+.place__container {
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+@media screen and (max-width: 767px) {
+    .place__container {
+        max-width: 92.5%;
+        margin: 0 auto;
+    }
+}
